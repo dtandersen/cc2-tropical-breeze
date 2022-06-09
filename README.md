@@ -1,6 +1,14 @@
 # Tropical Breeze
 
-A Carrier Command 2 mod that reduces wind noise.
+```
+Lowers the sound volume of the wind and sea.
+
+---
+
+https://github.com/dtandersen/cc2-tropical-breeze
+
+https://discord.gg/nQ5mPPXt#cc2-modding
+```
 
 # Development
 
